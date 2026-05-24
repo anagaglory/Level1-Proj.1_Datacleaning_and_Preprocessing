@@ -44,16 +44,16 @@ README.md       # Project documentation
 ## Project Screenshots
 
 ### Dataset Preview
-![Dataset Preview](screenshots/dataset-preview.png)
+![Dataset Preview](screenshots/dataset-preview.png.jpg)
 
 ### Cleaning Process
-![Cleaning Process](screenshots/cleaning_process.png)
+![Cleaning Process](screenshots/cleaning_process.png.jpg)
 
 ### Process Output
-![Process Output](screenshots/process_output.png)
+![Process Output](screenshots/process_output.png.jpg)
 
 ### Dashboard View
-![Dashboard View](screenshots/dashboard_view.png)
+![Dashboard View](screenshots/dashboard_view.png.jpg)
 
 
 ## Results
