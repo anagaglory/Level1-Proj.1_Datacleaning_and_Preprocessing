@@ -67,3 +67,7 @@ README.md       # Project documentation
 ## Conclusion
 
 This project helped demonstrate practical data cleaning and preprocessing skills using Python and Pandas.
+
+🔗 LinkedIn Update: 
+https://www.linkedin.com/posts/glory-anaga_github-anagaglorycodveda-datacleaning-task1-share-7464300292868722689-TRN4/?utm_source=share&utm_medium=member_ios&rcm=ACoAAEzcjzYBKYK0E8nWmeqz2AhiJ-Qde3g72iM
+💼 Follow my journey: LinkedIn
