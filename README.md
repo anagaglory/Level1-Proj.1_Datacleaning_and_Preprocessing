@@ -44,7 +44,7 @@ README.md       # Project documentation
 ## Project Screenshots
 
 ### Dataset Preview
-![Dataset Preview](screenshots/dataset-preview.png.jpg)
+![Dataset Preview](screenshots/dataset_preview.png.jpg)
 
 ### Cleaning Process
 ![Cleaning Process](screenshots/cleaning_process.png.jpg)
